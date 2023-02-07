@@ -29,9 +29,10 @@
   - z-index
 + [Version 2 Plantilla Responsive Free](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html)
 
-<details><summary>DISPLAY</summary>
+<details><summary>DISPLAY: Flex;</summary>
 <p>
-                                 |
+
+
 
 </p>
 </details>
