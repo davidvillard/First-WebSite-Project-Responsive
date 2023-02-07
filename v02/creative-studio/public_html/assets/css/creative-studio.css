@@ -10775,6 +10775,7 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #ff214f !important;
+  border-radius: 30%;
 }
 
 a.text-primary:hover, a.text-primary:focus {
