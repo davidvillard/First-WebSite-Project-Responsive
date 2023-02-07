@@ -28,3 +28,21 @@
   - animation
   - z-index
 + [Version 2 Plantilla Responsive Free](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html)
+
+<details><summary>DISPLAY</summary>
+<p>
+
+   |             Flex                  |
+   |                                   |
+   |   |          |     |          |   |
+   |   |          |     |          |   |
+   |   | Imagen 1 |     |Imagen 2  |   |
+   |   |          |     |          |   |
+   |   |          |     |          |   |
+   |                                   |
+   |                                   |
+
+</p>
+</details>
+
+
