@@ -34,6 +34,10 @@
 
    ![Image Text](https://github.com/davidvillard/WebSiteProjectResponsive/blob/main/Unessential/Display%20Flex.drawio.png)
 
+   En este caso la foto hace referencia a la disposicion del apartado **_Media_**, concretamente en la galeria de imágenes.
+   Las imagenes estan contenidas por la clase gallery que es el container de todas las fotos. Esta tiene un **display: flex**.
+   Despues dentro del container tendremos la clase row que sera el container de las imagenes en si, que, tambien tendra **display: flex**.
+   Y las imagenes, que estaran contenidas por un div al que le pondremos un **flex: 1 0 24;** para que no esten tan juntas entre si
 </p>
 </details>
 
