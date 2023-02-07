@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/home.css">
+    <link rel="shortcut icon" type="image/png" href="../images/gargantua.png" sizes="64x64">
+    <title>Interstellar Fan Page</title>
+    <!--GOOGLE FONTS-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Play&display=swap" rel="stylesheet"> 
+    <!--FONT AWESOME-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="nav_container">
+
+                <div class="nav_menu_izq">
+                    <a href="./home.html">
+                        <h1>INTERSTELLAR</h1>
+                    </a>
+                </div>
+                <div class="nav_menu">
+                    <a href="./introduction.html" class="nav_item">Introduccion</a>
+                    <a href="./director.html" class="nav_item">Director</a>
+                    <a href="./cast.html" class="nav_item">Personajes</a>
+                    <a href="./wheresee.html" class="nav_item">Donde Ver?</a>
+                    <a href="./soundtrack.html" class="nav_item">Media</a>
+                    <a href="./news.html" class="nav_item">Noticias</a>
+                    <a href="#survey" class="nav_item">Formulario</a>
+                </div>
+            </div>
+        </header>
+
+        <main class="main">
+            <h1 class="main-title">INTER<span>STELLAR</span></h1>
+        </main>
+    </div>
+
+    
+    <div class="container-form" id="survey">
+        <form class="row" action="">
+            <label id="name-label" for="name">Name</label>
+            <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required>
+            <label id="email-label" for="email">Email</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="Enter your email"
+                class="form-control" placeholder="Enter your name" required>
+            <label id="number-label" for="number">Age (optional)</label>
+            <input type="number" min="12" max="100" name="number" id="number" class="form-control"
+                placeholder="Enter your Age">
+            <label id="number-label" for="tel">Telefono:</label>
+            <input type="tel" name="tel" id="tel" class="form-control" placeholder="*Opcional*"
+                pattern="(\+34|0034|34)?[ -]*(6|7)[ -]*([0-9][ -]*){8}">
+            <label id="number-label" for="email">Correo Electronico:</label>
+            <input type="email" name="mail" id="email" placeholder="email@example.com" class="form-control">
+            <label id="number-label" for="email">Contraseña:</label>
+            <input type="password" pattern=".{8,}" placeholder="8 caracteres o mas" name="password" id="password"
+                class="form-control">
+            <label id="number-label" for="email">Reseña:</label>
+            <input type="text" name="opinion" id="userOpinion"
+            placeholder="¡Dejanos tu reseña sobre Interstellar!" class="form-control2">
+            <label id="sexo"> Sexo:</label>
+            <div class="form-group">
+                <div class="form-row-label">
+                    <label>
+                        <input value="hombre" class="input-radio" type="radio" name="recommend">Hombre
+                    </label>
+                    <label>
+                        <input value="mujer" class="input-radio" type="radio" name="recommend">Mujer
+                    </label>
+                    <label>
+                        <input value="otro" class="input-radio" type="radio" name="recommend">Otro
+                    </label>
+                </div>
+            </div>
+            <label for="dropdown">Que opcion describe lo que estas haciendo ahora mismo?</label>
+            <select name="role" id="dropdown" class="form-control">
+                <option disabled selected value>Seleccionar</option>
+                <option value="student">Estudiante</option>
+                <option value="job">Trabajador a tiempor completo</option>
+                <option value="learner">Trabajador Autonomo</option>
+                <option value="not-say">Prefiero no decirlo</option>
+                <option value="learner">Otro</option>
+            </select>
+            <label for="dropdown2">What is your favorite feature of freeCodeCamp?</label>
+            <select name="role" id="dropdown2" class="form-control">
+                <option disabled selected value>Select an option</option>
+                <option value="challenge">Shutter Island</option>
+                <option value="project">Avatar</option>
+                <option value="community">Buscando a Wall-E</option>
+                <option value="open-source">Basketball Diaries</option>
+                <option value="open-source">Corazones de acero</option>
+                <option value="open-source">El Padrino</option>
+                <option value="open-source">El Club De Los Poetas Muertos</option>
+                <option value="open-source">El indomable Will</option>
+                <option value="open-source">La lista de Schlinder</option>
+                <option value="open-source">Coach Carter</option>
+                <option value="open-source">Tokyo Drift</option>
+                <option value="open-source">El Irlandes</option>
+            </select>
+            <div class="form-group">
+                <div class="form-row-label2">
+                    <label>
+                        <input class="input-radio" value="front-end-projects" type="radio" name="prefer">Otra
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="sugges" id="sugges">Any suggestions:</label>
+                <textarea name="suggestions" id="suggestions" class="input-textarea"></textarea>
+            </div>
+            <div class="form-group">
+                <button type="submit" id="submit" class="submit-button">Submit</button>
+            </div>
+        </form>
+    </div>
+    <footer>
+        <div class="footer">
+        <div class="row">
+        <a href="https://es-es.facebook.com/"><i class="fa fa-facebook"></i></a>
+        <a href="https://www.instagram.com/davidvillardd/"><i class="fa fa-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/UC2pB3NuIlt_FcRfql0a1GyQ"><i class="fa fa-youtube"></i></a>
+        <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+        </div>
+        
+        <div class="row">
+        <ul>
+        <li><a href="./introduction.html">Introduccion</a></li>
+        <li><a href="./director.html">Director</a></li>
+        <li><a href="./cast.html">Personajes</a></li>
+        <li><a href="./wheresee.html">Donde Ver?</a></li>
+        <li><a href="./soundtrack.html">Media</a></li>
+        <li><a href="./news.html">Noticias</a></li>
+        <li><a href="./form.html">Formulario</a></li>
+        </ul>
+        </div>
+        <div class="row">
+        <ul>
+            Conviertete en nuestro miembro y recibe todas nuestras noticias!
+        <li><a href="./login.html">LOGIN</a></li>
+        <li><a href="./login.html">REGISTER</a></li>
+        </ul>
+        </div>
+        
+        <div class="row">
+            <hr>
+        Copyright © 2023 David Durán - All rights reserved || Designed By: David Durán
+        </div>
+        </div>
+        </footer>
+</body>
+
+</html>
