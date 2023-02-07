@@ -31,16 +31,7 @@
 
 <details><summary>DISPLAY</summary>
 <p>
-
-   |             Flex                  |
-   |                                   |
-   |   |          |     |          |   |
-   |   |          |     |          |   |
-   |   | Imagen 1 |     |Imagen 2  |   |
-   |   |          |     |          |   |
-   |   |          |     |          |   |
-   |                                   |
-   |                                   |
+                                 |
 
 </p>
 </details>
