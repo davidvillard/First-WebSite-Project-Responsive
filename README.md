@@ -32,7 +32,7 @@
 <details><summary>DISPLAY: Flex;</summary>
 <p>
 
-
+   ![Image Text](https://github.com/davidvillard/WebSiteProjectResponsive/blob/main/Unessential/Display%20Flex.drawio.png)
 
 </p>
 </details>
