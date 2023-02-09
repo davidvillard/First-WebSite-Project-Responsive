@@ -27,7 +27,7 @@
   - border-radius
   - animation
   - z-index
-+ [Version 2 Plantilla Responsive Free](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html)
++ [Version 2.2 Plantilla Responsive Free editada](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html)
 
 <details><summary>DISPLAY: Flex;</summary>
 <p>
