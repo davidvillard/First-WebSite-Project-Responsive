@@ -13,7 +13,7 @@
   - padding
   - text-decoration
   - margin
-  -. font-family
+  - font-family
   - font-weight
   - letter-spacing
   - background-image
@@ -27,7 +27,9 @@
   - border-radius
   - animation
   - z-index
-+ [Version 2.2 Plantilla Responsive Free editada](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html)
+  
++ [Version 2 Plantilla Responsive Free sin editar HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html) 
+* [Version 2.2 Plantilla Responsive Free editado HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02.2/creative-studio/public_html/index.html)
 
 <details><summary>DISPLAY: Flex;</summary>
 <p>
