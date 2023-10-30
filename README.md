@@ -2,6 +2,7 @@
 
 - [Version 0 excluding CSS3](https://davidvillard.github.io/WebSiteProjectResponsive/v0/src/html/home.html)
 * [Version 1 with CSS3 and Tailwind](https://davidvillard.github.io/WebSiteProjectResponsive/v01/src/html/home.html)
+
    - color
   - background-color
   - grid-auto-flow
