@@ -1,7 +1,7 @@
 # _Interstellar Website_
 
-- [Version 0 sin CSS3](https://davidvillard.github.io/WebSiteProjectResponsive/v0/src/html/home.html)
-* [Version 1 con CSS3 y Tailwind](https://davidvillard.github.io/WebSiteProjectResponsive/v01/src/html/home.html)
+- [Version 0 excluding CSS3](https://davidvillard.github.io/WebSiteProjectResponsive/v0/src/html/home.html)
+* [Version 1 with CSS3 and Tailwind](https://davidvillard.github.io/WebSiteProjectResponsive/v01/src/html/home.html)
    - color
   - background-color
   - grid-auto-flow
@@ -28,8 +28,8 @@
   - animation
   - z-index
   
-+ [Version 2 Plantilla Responsive Free sin editar HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html) 
-* [Version 2.2 Plantilla Responsive Free editado HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02.2/creative-studio/public_html/index.html)
++ [Version 2 Free Unedited Responsive Template HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02/creative-studio/public_html/index.html) 
+* [Version 2.2 Edited Free Responsive Template HTML5](https://davidvillard.github.io/WebSiteProjectResponsive/v02.2/creative-studio/public_html/index.html)
 
 <details><summary>DISPLAY: Flex;</summary>
 <p>
