@@ -35,7 +35,7 @@
 <details><summary>DISPLAY: Flex;</summary>
 <p>
 
-   ![Image Text](https://github.com/davidvillard/WebSiteProjectResponsive/blob/main/Unessential/Display%20Flex.drawio.png)
+   ![Image Text](https://github.com/davidvillard/First-WebSite-Project-Responsive/blob/main/Unessential/Display%20Flex.drawio.png)
 
    En este caso la foto hace referencia a la disposicion del apartado **_Media_**, concretamente en la galeria de imágenes.
    Las imagenes estan contenidas por la clase gallery que es el container de todas las fotos. Esta tiene un **display: flex**.
